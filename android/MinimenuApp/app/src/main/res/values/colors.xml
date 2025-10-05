@@ -1,0 +1,10 @@
+<resources>
+    <color name="md_primary">#0A84FF</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_background">#FFFFFF</color>
+    <color name="md_surface">#FFFFFF</color>
+    <color name="md_on_surface">#121212</color>
+    <color name="md_secondary">#26C6DA</color>
+    <color name="md_card">#F7F8FA</color>
+    <color name="md_divider">#E5E7EB</color>
+</resources>
